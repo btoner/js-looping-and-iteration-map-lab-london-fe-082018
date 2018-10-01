@@ -4,5 +4,5 @@ function lowerCaseDrivers(drivers){
 }
 
 function nameToAttributes(drivers){
-  
+  let patroni = students.map( student => student.namePatronus() )
 }
