@@ -4,5 +4,5 @@ function lowerCaseDrivers(){
 }
 
 function nameToAttributes(drivers){
-  let drivers = drivers.map( driver => drivers. )
+
 }
