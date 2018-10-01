@@ -1,8 +1,4 @@
 // Code your solution in this file.
-function lowerCaseDrivers(){
+function lowerCaseDrivers(drivers){
   return drivers;
-}
-
-function nameToAttributes(drivers){
-
 }
